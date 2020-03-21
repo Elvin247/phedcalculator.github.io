@@ -69,7 +69,7 @@ class UI {
             </button>
           </div>
           <h3>${product.title}</h3>
-         <h6>${product.description}</h6>
+         
           <h4>&#8358;${product.price}</h4>
         </article>
         <!-- end of single product -->
