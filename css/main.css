@@ -487,9 +487,14 @@ font-size: 14px
 }
 
 /* --------------- End of Cart ---------------- */
-
+.right{
+    margin-top: 80px;
+}
 
 @media screen and (min-width: 900px) {
+	.right{
+    margin-top: 0px;
+}
     
       .cont1{
         display: flex;
