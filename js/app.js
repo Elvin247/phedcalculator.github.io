@@ -39,7 +39,7 @@ class Products {
          const { title, price, description } = item.fields;
         const { id } = item.sys;
         const image = item.fields.image.fields.file.url;
-       return { title, price, description, image };
+       return { title, price, id, description, image };
       });
 
       return products;
