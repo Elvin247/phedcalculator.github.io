@@ -638,6 +638,7 @@ font-size: 14px
         margin-right: 50px;
 	width:400px;
 	 height: 500px;
+	    flex:1;
     }
 	.testy1 p{
 		font-size:25px
@@ -690,20 +691,8 @@ line-height:0.8em;
     }
 
 
-.testy{
-   
-    display: flex;
+
     
-   }
-    .testy1{
-        margin-right: 50px;
-	width:400px;
-    padding-left:10px;
-    padding-right:10px;
-    }
-	.testy1 p{
-		font-size:25px
-    }
      .navbar{
         position: fixed;
     }
