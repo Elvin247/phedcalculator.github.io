@@ -604,7 +604,9 @@ font-size: 14px
      bottom: 0;
      opacity: 1;
 }
-
+#baguetteBox-overlay{
+    display: none;
+}
 
 @media screen and (min-width: 900px) {
 	.right{
