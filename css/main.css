@@ -213,7 +213,7 @@ font-size: 12px;
 }
 .testy1{
     width: 200px;
-    height: auto;
+     height: 400px;
     background-color: #CDE2DF;
     vertical-align: middle;
     
@@ -637,6 +637,7 @@ font-size: 14px
     .testy1{
         margin-right: 50px;
 	width:400px;
+	 height: 500px;
     }
 	.testy1 p{
 		font-size:25px
