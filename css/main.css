@@ -637,9 +637,10 @@ font-size: 14px
     .testy1{
         margin-right: 50px;
 	width:400px;
-	 height: 500px;
-	    padding:20px;
-	    flex:1;
+	 min-height:500px;
+        height: auto;
+	padding:20px;
+	flex:1;
     }
 	.testy1 p{
 		font-size:25px
