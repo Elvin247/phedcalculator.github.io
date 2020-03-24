@@ -519,16 +519,16 @@ font-size: 14px
      z-index: 1;
      display: block;
      margin-top: 90px;
-/*      border: 1px solid green; */
-	 border-radius:50%;
-     height: 20%;
+/*     border: 1px solid green;*/
+     border-radius: 50%;
+     height: 50px;
      width: 50px;
      line-height: 0px;
      font-size: 24px;
      cursor: pointer;
      color: #ffffff;
      top: 0;
-     padding: 0;
+     
      
      opacity: 1;
      left: 0px;
@@ -542,8 +542,9 @@ font-size: 14px
      z-index: 1;
      display: block;
      margin-top: 90px;
-     border: 1px solid green;
-     height: 20%;
+/*     border: 1px solid green;*/
+     border-radius: 50%;
+     height: 50px;
      width: 50px;
      line-height: 0px;
      font-size: 24px;
