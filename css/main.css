@@ -493,7 +493,7 @@ font-size: 14px
 
 /*------------------------------------------------------------------ Instagram Feed -------------------------------------------------------------------*/
 .instagram{
-    background-color: #242424;
+    background-color: rgba(0,0,0,0.9);
     color: white;
     position: relative;
 } 
