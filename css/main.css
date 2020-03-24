@@ -521,13 +521,14 @@ font-size: 14px
      margin-top: 90px;
 /*     border: 1px solid green;*/
      border-radius: 50%;
-     height: 50px;
-     width: 50px;
+     height: 30px;
+     width: 30px;
      line-height: 0px;
      font-size: 24px;
      cursor: pointer;
      color: #ffffff;
      top: 0;
+     
      
      
      opacity: 1;
@@ -544,8 +545,8 @@ font-size: 14px
      margin-top: 90px;
 /*     border: 1px solid green;*/
      border-radius: 50%;
-     height: 50px;
-     width: 50px;
+     height: 30px;
+     width: 30px;
      line-height: 0px;
      font-size: 24px;
      cursor: pointer;
@@ -561,7 +562,12 @@ font-size: 14px
 }
  .main-instagram.owl-carousel .owl-nav button.owl-next:hover, .main-instagram.owl-carousel .owl-nav button.owl-prev:hover{
      background: #d33b33;
+     outline: none;
 }
+.main-instagram.owl-carousel .owl-nav button.owl-next, .main-instagram.owl-carousel .owl-nav button.owl-prev{
+    outline: none
+}
+
  .ins-inner-box{
      position: relative;
      
